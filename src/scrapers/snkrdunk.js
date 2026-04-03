@@ -23,13 +23,9 @@ async function scrapeSnkrdunkPrice(url) {
                     $('.price-box .price').first().text() || 
                     $('.lowest-price .value').first().text();
                     
-    // Fallback: If no specific class matches, look for strings ending in 円 
+    // Fallback regex removed to prevent pulling random recommended items if URL is incorrect 
     if (!priceText.trim()) {
-      const allText = $('body').text();
-      const match = allText.match(/¥([\d,]+)/);
-      if (match) {
-        priceText = match[1];
-      }
+      priceText = "";
     }
 
     if (!priceText) {
