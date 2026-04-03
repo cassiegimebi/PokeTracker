@@ -46,6 +46,15 @@ async function main() {
   }
 
   const today = format(new Date(), 'yyyy-MM-dd');
+  
+  // Prune removed cards from pricesDb
+  const activeKeys = configCards.map(card => `${card.tcgdex_id}_${card.condition}`);
+  for (const key of Object.keys(pricesDb)) {
+    if (!activeKeys.includes(key)) {
+      console.log(`Pruning removed card from tracking: ${key}`);
+      delete pricesDb[key];
+    }
+  }
 
   for (const card of configCards) {
     const objectKey = `${card.tcgdex_id}_${card.condition}`;
