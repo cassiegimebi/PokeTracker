@@ -1,15 +1,24 @@
 {
   "sv2a-173_PSA10": {
     "metadata": {
-      "name_en": "Pikachu AR",
-      "name_ja": "ピカチュウ AR",
+      "name_en": "ピカチュウ",
+      "name_ja": "ピカチュウ",
       "number": "173/165",
       "condition": "PSA10",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/173/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 25000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 26500, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 25000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "ppt_usd": null,
+        "cardrush_jpy": null
+      }
     ]
   },
   "s8b-275_PSA10": {
@@ -21,8 +30,17 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SWSH/S8b/275/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 45000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 46000, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 45000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "ppt_usd": null,
+        "cardrush_jpy": null
+      }
     ]
   },
   "s8b-275_Raw": {
@@ -34,21 +52,39 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SWSH/S8b/275/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "cardrush_jpy": 18000, "ppt_usd": null },
-      { "date": "2026-04-03", "cardrush_jpy": 18500, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "cardrush_jpy": 18000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "cardrush_jpy": null,
+        "ppt_usd": null,
+        "snkrdunk_jpy": null
+      }
     ]
   },
   "sv4a-347_PSA10": {
     "metadata": {
-      "name_en": "Mew ex SAR",
-      "name_ja": "ミュウex SAR",
+      "name_en": "ミュウex",
+      "name_ja": "ミュウex",
       "number": "347/190",
       "condition": "PSA10",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV4a/347/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 12000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 12500, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 12000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "ppt_usd": null,
+        "cardrush_jpy": null
+      }
     ]
   },
   "sv2a-205_PSA10": {
@@ -60,8 +96,16 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/205/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 3500, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 3600, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 3500,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": 3600,
+        "ppt_usd": null
+      }
     ]
   },
   "s8a-p-012_PSA10": {
@@ -73,8 +117,17 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SWSH/S8a-P/012/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 32000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 31000, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 32000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "ppt_usd": null,
+        "cardrush_jpy": null
+      }
     ]
   },
   "s6a-095_PSA10": {
@@ -86,8 +139,16 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SWSH/S6a/095/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 250000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 255000, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 250000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": 255000,
+        "ppt_usd": null
+      }
     ]
   },
   "sv5a-078_PSA10": {
@@ -99,21 +160,38 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV5a/078/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 4500, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 4800, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 4500,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": 4800,
+        "ppt_usd": null
+      }
     ]
   },
   "sv2a-201_PSA10": {
     "metadata": {
-      "name_en": "Charizard ex SAR (151)",
-      "name_ja": "リザードンex SAR",
+      "name_en": "リザードンex",
+      "name_ja": "リザードンex",
       "number": "201/165",
       "condition": "PSA10",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/201/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 35000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 35500, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 35000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "ppt_usd": null,
+        "cardrush_jpy": null
+      }
     ]
   },
   "sv4a-349_PSA10": {
@@ -125,8 +203,80 @@
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV4a/349/high.webp"
     },
     "history": [
-      { "date": "2026-03-25", "snkrdunk_jpy": 28000, "ppt_usd": null },
-      { "date": "2026-04-03", "snkrdunk_jpy": 27500, "ppt_usd": null }
+      {
+        "date": "2026-03-25",
+        "snkrdunk_jpy": 28000,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": 27500,
+        "ppt_usd": null
+      }
+    ]
+  },
+  "sv2a-173_Raw": {
+    "metadata": {
+      "condition": "Raw",
+      "name_en": "ピカチュウ",
+      "name_ja": "ピカチュウ",
+      "number": "173/165",
+      "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/173/high.webp"
+    },
+    "history": [
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      }
+    ]
+  },
+  "sv4a-347_Raw": {
+    "metadata": {
+      "condition": "Raw",
+      "name_en": "ミュウex",
+      "name_ja": "ミュウex",
+      "number": "347/190",
+      "imageUrl": "https://assets.tcgdex.net/ja/SV/SV4a/347/high.webp"
+    },
+    "history": [
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      }
+    ]
+  },
+  "s8a-p-012_Raw": {
+    "metadata": {
+      "condition": "Raw"
+    },
+    "history": [
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      }
+    ]
+  },
+  "sv2a-201_Raw": {
+    "metadata": {
+      "condition": "Raw",
+      "name_en": "リザードンex",
+      "name_ja": "リザードンex",
+      "number": "201/165",
+      "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/201/high.webp"
+    },
+    "history": [
+      {
+        "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      }
     ]
   }
 }
