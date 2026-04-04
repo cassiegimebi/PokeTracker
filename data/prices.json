@@ -18,6 +18,12 @@
         "snkrdunk_jpy": null,
         "ppt_usd": null,
         "cardrush_jpy": null
+      },
+      {
+        "date": "2026-04-04",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -40,6 +46,12 @@
         "snkrdunk_jpy": null,
         "ppt_usd": null,
         "cardrush_jpy": null
+      },
+      {
+        "date": "2026-04-04",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -62,6 +74,12 @@
         "snkrdunk_jpy": null,
         "ppt_usd": null,
         "cardrush_jpy": null
+      },
+      {
+        "date": "2026-04-04",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -84,6 +102,12 @@
         "snkrdunk_jpy": null,
         "ppt_usd": null,
         "cardrush_jpy": null
+      },
+      {
+        "date": "2026-04-04",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -101,6 +125,12 @@
         "snkrdunk_jpy": null,
         "cardrush_jpy": 5480,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-04-04",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": 5480,
+        "ppt_usd": null
       }
     ]
   },
@@ -115,6 +145,12 @@
     "history": [
       {
         "date": "2026-04-03",
+        "snkrdunk_jpy": null,
+        "cardrush_jpy": 64800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-04-04",
         "snkrdunk_jpy": null,
         "cardrush_jpy": 64800,
         "ppt_usd": null
