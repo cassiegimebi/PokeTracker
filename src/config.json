@@ -1,38 +1,134 @@
 [
   {
     "tcgdex_id": "sv2a-173",
+    "name_en": "Pikachu AR",
+    "name_ja": "ピカチュウ AR",
     "condition": "PSA10",
-    "snkrdunk_url": "https://snkrdunk.com/apparels/128089",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=pikachu+ar+sv2a"
+    "snkrdunk_product_id": 105553
   },
   {
     "tcgdex_id": "sv2a-173",
+    "name_en": "Pikachu AR",
+    "name_ja": "ピカチュウ AR",
     "condition": "Raw",
-    "cardrush_url": "https://www.cardrush-pokemon.jp/product/43832",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=pikachu+ar+sv2a"
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv2a+173+AR"
+  },
+  {
+    "tcgdex_id": "s8b-275",
+    "name_en": "Pikachu VMAX CSR",
+    "name_ja": "ピカチュウVMAX CSR",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 138599,
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230913100335-0.webp"
+  },
+  {
+    "tcgdex_id": "s8b-275",
+    "name_en": "Pikachu VMAX CSR",
+    "name_ja": "ピカチュウVMAX CSR",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=s8b+%E3%83%94%E3%82%AB%E3%83%81%E3%83%A5%E3%82%A6VMAX+CSR",
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230913100335-0.webp"
   },
   {
     "tcgdex_id": "sv4a-347",
+    "name_en": "Mew ex SAR",
+    "name_ja": "ミュウex SAR",
     "condition": "PSA10",
-    "snkrdunk_url": "https://snkrdunk.com/apparels/164250",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=mew+ex+sar+sv4a"
+    "snkrdunk_product_id": 164250
+  },
+  {
+    "tcgdex_id": "sv4a-347",
+    "name_en": "Mew ex SAR",
+    "name_ja": "ミュウex SAR",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv4a+347"
+  },
+  {
+    "tcgdex_id": "sv2a-205",
+    "name_en": "Mew ex UR",
+    "name_ja": "ミュウex UR",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 128124
+  },
+  {
+    "tcgdex_id": "sv2a-205",
+    "name_en": "Mew ex UR",
+    "name_ja": "ミュウex UR",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv2a+205"
   },
   {
     "tcgdex_id": "s8a-p-012",
+    "name_en": "Umbreon Star 25th",
+    "name_ja": "ブラッキー☆ (25th)",
     "condition": "PSA10",
-    "snkrdunk_url": "https://snkrdunk.com/apparels/91160",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=umbreon+star+25th"
+    "snkrdunk_product_id": 91160,
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20221015014405-0.webp"
   },
   {
-    "tcgdex_id": "sv2a-201",
-    "condition": "PSA10",
-    "snkrdunk_url": "https://snkrdunk.com/apparels/128117",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=charizard+ex+sar"
-  },
-  {
-    "tcgdex_id": "sv2a-201",
+    "tcgdex_id": "s8a-p-012",
+    "name_en": "Umbreon Star 25th",
+    "name_ja": "ブラッキー☆ (25th)",
     "condition": "Raw",
-    "cardrush_url": "https://www.cardrush-pokemon.jp/product/43860",
-    "ppt_url": "https://www.pokemonpricetracker.com/search?q=charizard+ex+sar"
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=%E3%83%96%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BC+25th+%E3%82%B9%E3%82%BF%E3%83%BC",
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20221015014405-0.webp"
+  },
+  {
+    "tcgdex_id": "s6a-095",
+    "name_en": "Umbreon VMAX SA",
+    "name_ja": "ブラッキーVMAX HR (SA)",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 93021,
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230203030350-0.webp"
+  },
+  {
+    "tcgdex_id": "s6a-095",
+    "name_en": "Umbreon VMAX SA",
+    "name_ja": "ブラッキーVMAX HR (SA)",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=s6a+%E3%83%96%E3%83%A9%E3%83%83%E3%82%AD%E3%83%BCVMAX+HR",
+    "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230203030350-0.webp"
+  },
+  {
+    "tcgdex_id": "sv5a-078",
+    "name_en": "Eevee AR",
+    "name_ja": "イーブイ AR",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 224086
+  },
+  {
+    "tcgdex_id": "sv5a-078",
+    "name_en": "Eevee AR",
+    "name_ja": "イーブイ AR",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv5a+078"
+  },
+  {
+    "tcgdex_id": "sv2a-201",
+    "name_en": "Charizard ex SAR (151)",
+    "name_ja": "リザードンex SAR",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 128117
+  },
+  {
+    "tcgdex_id": "sv2a-201",
+    "name_en": "Charizard ex SAR (151)",
+    "name_ja": "リザードンex SAR",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv2a+201"
+  },
+  {
+    "tcgdex_id": "sv4a-349",
+    "name_en": "Charizard ex SAR (Shiny)",
+    "name_ja": "リザードンex SAR (色違い)",
+    "condition": "PSA10",
+    "snkrdunk_product_id": 162095
+  },
+  {
+    "tcgdex_id": "sv4a-349",
+    "name_en": "Charizard ex SAR (Shiny)",
+    "name_ja": "リザードンex SAR (色違い)",
+    "condition": "Raw",
+    "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=sv4a+349"
   }
 ]
