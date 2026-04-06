@@ -5922,11 +5922,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 96800,
+        "snkrdunk_jpy": 12000,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 2,
-        "snkrdunk_sales_7d": 32
+        "snkrdunk_sales_24h": 4,
+        "snkrdunk_sales_7d": 20
       }
     ]
   },
@@ -8837,11 +8837,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 54299,
+        "snkrdunk_jpy": 52000,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 1,
-        "snkrdunk_sales_7d": 15
+        "snkrdunk_sales_24h": 7,
+        "snkrdunk_sales_7d": 18
       }
     ]
   },
@@ -14243,8 +14243,8 @@
         "snkrdunk_jpy": 153000,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 5,
-        "snkrdunk_sales_7d": 13
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 9
       }
     ]
   },
@@ -14252,7 +14252,7 @@
     "metadata": {
       "name_en": "Mew ex UR",
       "name_ja": "ミュウex UR",
-      "number": "208/165",
+      "number": "205/165",
       "condition": "PSA10",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/205/high.webp"
     },
@@ -16467,11 +16467,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 46400,
+        "snkrdunk_jpy": 55000,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 3,
-        "snkrdunk_sales_7d": 27
+        "snkrdunk_sales_24h": 19,
+        "snkrdunk_sales_7d": 33
       }
     ]
   },
@@ -22598,11 +22598,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 58400,
+        "snkrdunk_jpy": 59500,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 13,
-        "snkrdunk_sales_7d": 45
+        "snkrdunk_sales_24h": 14,
+        "snkrdunk_sales_7d": 44
       }
     ]
   },
@@ -27953,11 +27953,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 705000,
+        "snkrdunk_jpy": 710000,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 0,
-        "snkrdunk_sales_7d": 7
+        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_7d": 6
       }
     ]
   },
@@ -27965,7 +27965,7 @@
     "metadata": {
       "name_en": "Eevee AR",
       "name_ja": "イーブイ AR",
-      "number": "078/066",
+      "number": "078/66",
       "condition": "PSA10",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV5a/078/high.webp"
     },
@@ -31575,8 +31575,8 @@
         "snkrdunk_jpy": 14300,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 5,
-        "snkrdunk_sales_7d": 16
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 14
       }
     ]
   },
@@ -37679,11 +37679,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 153000,
+        "snkrdunk_jpy": 149889,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 0,
-        "snkrdunk_sales_7d": 23
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 22
       }
     ]
   },
@@ -43242,11 +43242,11 @@
       },
       {
         "date": "2026-04-06",
-        "snkrdunk_jpy": 87000,
+        "snkrdunk_jpy": 84800,
         "cardrush_jpy": null,
         "ppt_usd": null,
-        "snkrdunk_sales_24h": 9,
-        "snkrdunk_sales_7d": 24
+        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_7d": 22
       }
     ]
   },
@@ -43258,7 +43258,16 @@
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/173/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 3490,
+        "ppt_usd": null
+      }
+    ]
   },
   "s8b-275_Raw": {
     "metadata": {
@@ -43268,7 +43277,16 @@
       "condition": "Raw",
       "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230913100335-0.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 25800,
+        "ppt_usd": null
+      }
+    ]
   },
   "sv4a-347_Raw": {
     "metadata": {
@@ -43278,17 +43296,35 @@
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV4a/347/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 74800,
+        "ppt_usd": null
+      }
+    ]
   },
   "sv2a-205_Raw": {
     "metadata": {
       "name_en": "Mew ex UR",
       "name_ja": "ミュウex UR",
-      "number": "208/165",
+      "number": "205/165",
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/205/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 49800,
+        "ppt_usd": null
+      }
+    ]
   },
   "s8a-p-012_Raw": {
     "metadata": {
@@ -43298,7 +43334,16 @@
       "condition": "Raw",
       "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20221015014405-0.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      }
+    ]
   },
   "s6a-095_Raw": {
     "metadata": {
@@ -43308,17 +43353,35 @@
       "condition": "Raw",
       "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230203030350-0.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 11800,
+        "ppt_usd": null
+      }
+    ]
   },
   "sv5a-078_Raw": {
     "metadata": {
       "name_en": "Eevee AR",
       "name_ja": "イーブイ AR",
-      "number": "078/066",
+      "number": "078/66",
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV5a/078/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 4780,
+        "ppt_usd": null
+      }
+    ]
   },
   "sv2a-201_Raw": {
     "metadata": {
@@ -43328,7 +43391,16 @@
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV2a/201/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 64800,
+        "ppt_usd": null
+      }
+    ]
   },
   "sv4a-349_Raw": {
     "metadata": {
@@ -43338,6 +43410,15 @@
       "condition": "Raw",
       "imageUrl": "https://assets.tcgdex.net/ja/SV/SV4a/349/high.webp"
     },
-    "history": []
+    "history": [
+      {
+        "date": "2026-04-06",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 42800,
+        "ppt_usd": null
+      }
+    ]
   }
 }
