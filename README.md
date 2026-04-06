@@ -2,7 +2,7 @@
 
 A fully automated, zero-cost, and premium web dashboard for tracking the Japanese Pokémon Card market. 
 
-PokéTracker tracks prices for both **Graded (PSA 10)** cards and **Raw (Ungraded)** singles by seamlessly aggregating data from the Japanese market and providing crystal-clear visualization through a modern macOS-inspired interface.
+PokéTracker tracks prices for both **Graded (PSA 10)** cards and **Raw (Ungraded)** singles by seamlessly aggregating data from the Japanese market and providing crystal-clear visualization through a macOS-inspired interface.
 
 ## ✨ Features
 - **Dual-Market Tracking**: Scrapes PSA 10 market values from **SNKRDUNK** and Raw single market values from **Card Rush**.
@@ -23,36 +23,5 @@ PokéTracker tracks prices for both **Graded (PSA 10)** cards and **Raw (Ungrade
 
 ---
 
-## 🛠️ Adding New Cards
-Adding new grail cards to your tracker is incredibly easy. You do not need to hunt for images or type translations. 
 
-Simply open `src/config.json` and add a new block. 
-You only need 4 things:
-1. `tcgdex_id`: The ID of the card on TCGdex (e.g., `sv4a-347`).
-2. `condition`: Either `"PSA10"` or `"Raw"`.
-3. The Target Scraper URL: `snkrdunk_url` (for PSA10) or `cardrush_url` (for Raw).
-4. `ppt_url`: The PokemonPriceTracker URL for historical indexing.
-
-### PSA 10 Example:
-```json
-{
-  "tcgdex_id": "sv4a-347",
-  "condition": "PSA10",
-  "snkrdunk_url": "https://snkrdunk.com/trading-cards/...",
-  "ppt_url": "https://www.pokemonpricetracker.com/search?q=..."
-}
-```
-
-### Raw (Ungraded) Example:
-```json
-{
-  "tcgdex_id": "sv4a-347",
-  "condition": "Raw",
-  "cardrush_url": "https://www.cardrush-pokemon.jp/product-list?keyword=...",
-  "ppt_url": "https://www.pokemonpricetracker.com/search?q=..."
-}
-```
-*Note: The backend engine will do the rest automatically!*
-
----
 
