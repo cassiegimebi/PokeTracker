@@ -6531,7 +6531,7 @@
       {
         "date": "2026-06-21",
         "snkrdunk_jpy": 20800,
-        "snkrdunk_sales_24h": 1,
+        "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 26,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -16064,9 +16064,9 @@
       },
       {
         "date": "2026-06-21",
-        "snkrdunk_jpy": 138500,
-        "snkrdunk_sales_24h": 2,
-        "snkrdunk_sales_7d": 19,
+        "snkrdunk_jpy": 136000,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 22,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -25639,8 +25639,8 @@
       {
         "date": "2026-06-21",
         "snkrdunk_jpy": 59900,
-        "snkrdunk_sales_24h": 8,
-        "snkrdunk_sales_7d": 27,
+        "snkrdunk_sales_24h": 7,
+        "snkrdunk_sales_7d": 26,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -35828,9 +35828,9 @@
       },
       {
         "date": "2026-06-21",
-        "snkrdunk_jpy": 17999,
-        "snkrdunk_sales_24h": 4,
-        "snkrdunk_sales_7d": 10,
+        "snkrdunk_jpy": 19500,
+        "snkrdunk_sales_24h": 7,
+        "snkrdunk_sales_7d": 13,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -42543,9 +42543,9 @@
       },
       {
         "date": "2026-06-21",
-        "snkrdunk_jpy": 125000,
-        "snkrdunk_sales_24h": 0,
-        "snkrdunk_sales_7d": 10,
+        "snkrdunk_jpy": 118000,
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 13,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -48714,9 +48714,9 @@
       },
       {
         "date": "2026-06-21",
-        "snkrdunk_jpy": 78000,
-        "snkrdunk_sales_24h": 0,
-        "snkrdunk_sales_7d": 10,
+        "snkrdunk_jpy": 75000,
+        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_7d": 12,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -50598,7 +50598,7 @@
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
-        "cardrush_jpy": 89800,
+        "cardrush_jpy": 79800,
         "ppt_usd": null
       }
     ]
