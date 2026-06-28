@@ -6588,7 +6588,7 @@
         "date": "2026-06-28",
         "snkrdunk_jpy": 20500,
         "snkrdunk_sales_24h": 16,
-        "snkrdunk_sales_7d": 37,
+        "snkrdunk_sales_7d": 35,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -10165,9 +10165,9 @@
       },
       {
         "date": "2026-06-28",
-        "snkrdunk_jpy": 45000,
+        "snkrdunk_jpy": 44000,
         "snkrdunk_sales_24h": 1,
-        "snkrdunk_sales_7d": 9,
+        "snkrdunk_sales_7d": 10,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -16233,8 +16233,8 @@
       {
         "date": "2026-06-28",
         "snkrdunk_jpy": 134000,
-        "snkrdunk_sales_24h": 7,
-        "snkrdunk_sales_7d": 31,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 30,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -19124,8 +19124,8 @@
       {
         "date": "2026-06-28",
         "snkrdunk_jpy": 32699,
-        "snkrdunk_sales_24h": 3,
-        "snkrdunk_sales_7d": 15,
+        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_7d": 14,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -25919,7 +25919,7 @@
       {
         "date": "2026-06-28",
         "snkrdunk_jpy": 60000,
-        "snkrdunk_sales_24h": 8,
+        "snkrdunk_sales_24h": 3,
         "snkrdunk_sales_7d": 48,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -36220,9 +36220,9 @@
       },
       {
         "date": "2026-06-28",
-        "snkrdunk_jpy": 16480,
-        "snkrdunk_sales_24h": 14,
-        "snkrdunk_sales_7d": 27,
+        "snkrdunk_jpy": 16000,
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 28,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -49218,9 +49218,9 @@
       },
       {
         "date": "2026-06-28",
-        "snkrdunk_jpy": 62000,
-        "snkrdunk_sales_24h": 10,
-        "snkrdunk_sales_7d": 21,
+        "snkrdunk_jpy": 63000,
+        "snkrdunk_sales_24h": 12,
+        "snkrdunk_sales_7d": 24,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
