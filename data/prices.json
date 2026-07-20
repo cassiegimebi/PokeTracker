@@ -16761,8 +16761,8 @@
       {
         "date": "2026-07-20",
         "snkrdunk_jpy": 149770,
-        "snkrdunk_sales_24h": 2,
-        "snkrdunk_sales_7d": 9,
+        "snkrdunk_sales_24h": 1,
+        "snkrdunk_sales_7d": 8,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -26800,7 +26800,7 @@
         "date": "2026-07-20",
         "snkrdunk_jpy": 57000,
         "snkrdunk_sales_24h": 6,
-        "snkrdunk_sales_7d": 16,
+        "snkrdunk_sales_7d": 15,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -44400,7 +44400,7 @@
       {
         "date": "2026-07-20",
         "snkrdunk_jpy": 122000,
-        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 12,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -50802,7 +50802,7 @@
       },
       {
         "date": "2026-07-20",
-        "snkrdunk_jpy": 74800,
+        "snkrdunk_jpy": 75000,
         "snkrdunk_sales_24h": 6,
         "snkrdunk_sales_7d": 16,
         "cardrush_jpy": null,
