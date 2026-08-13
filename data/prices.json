@@ -34146,8 +34146,8 @@
       {
         "date": "2026-08-13",
         "snkrdunk_jpy": 938888,
-        "snkrdunk_sales_24h": 1,
-        "snkrdunk_sales_7d": 6,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 5,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -52532,7 +52532,7 @@
         "date": "2026-08-13",
         "snkrdunk_jpy": 85000,
         "snkrdunk_sales_24h": 4,
-        "snkrdunk_sales_7d": 27,
+        "snkrdunk_sales_7d": 26,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
