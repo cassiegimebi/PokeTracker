@@ -7012,7 +7012,7 @@
         "date": "2026-08-20",
         "snkrdunk_jpy": 16500,
         "snkrdunk_sales_24h": 12,
-        "snkrdunk_sales_7d": 33,
+        "snkrdunk_sales_7d": 32,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -28039,8 +28039,8 @@
       {
         "date": "2026-08-20",
         "snkrdunk_jpy": 55000,
-        "snkrdunk_sales_24h": 4,
-        "snkrdunk_sales_7d": 28,
+        "snkrdunk_sales_24h": 6,
+        "snkrdunk_sales_7d": 30,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -39188,9 +39188,9 @@
       },
       {
         "date": "2026-08-20",
-        "snkrdunk_jpy": 15200,
-        "snkrdunk_sales_24h": 6,
-        "snkrdunk_sales_7d": 18,
+        "snkrdunk_jpy": 14999,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 14,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -46384,7 +46384,7 @@
       {
         "date": "2026-08-20",
         "snkrdunk_jpy": 103999,
-        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_24h": 4,
         "snkrdunk_sales_7d": 10,
         "cardrush_jpy": null,
         "ppt_usd": null
