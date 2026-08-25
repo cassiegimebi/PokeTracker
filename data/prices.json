@@ -7047,6 +7047,14 @@
         "snkrdunk_sales_7d": 38,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 15700,
+        "snkrdunk_sales_24h": 7,
+        "snkrdunk_sales_7d": 33,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -7054,7 +7062,7 @@
     "metadata": {
       "name_en": "Pikachu VMAX CSR",
       "name_ja": "ピカチュウVMAX CSR",
-      "number": "223/184",
+      "number": "275/184",
       "condition": "PSA10",
       "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230913100335-0.webp"
     },
@@ -11077,6 +11085,14 @@
       },
       {
         "date": "2026-08-24",
+        "snkrdunk_jpy": 42480,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 9,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
         "snkrdunk_jpy": 42480,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 9,
@@ -17605,6 +17621,14 @@
         "snkrdunk_sales_7d": 21,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 149990,
+        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_7d": 19,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -20949,6 +20973,14 @@
         "date": "2026-08-24",
         "snkrdunk_jpy": 26999,
         "snkrdunk_sales_24h": 1,
+        "snkrdunk_sales_7d": 1,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 26999,
+        "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 1,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -28203,6 +28235,14 @@
         "snkrdunk_sales_7d": 46,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 58500,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 46,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -34678,6 +34718,14 @@
         "snkrdunk_sales_7d": 7,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 880000,
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 6,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -39415,6 +39463,14 @@
         "snkrdunk_jpy": 15000,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 33,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 15000,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 31,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -46644,6 +46700,14 @@
         "snkrdunk_sales_7d": 31,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 105000,
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 30,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -53327,6 +53391,14 @@
         "snkrdunk_sales_7d": 29,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": 78500,
+        "snkrdunk_sales_24h": 8,
+        "snkrdunk_sales_7d": 28,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -54466,6 +54538,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 6480,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 6480,
+        "ppt_usd": null
       }
     ]
   },
@@ -54473,7 +54553,7 @@
     "metadata": {
       "name_en": "Pikachu VMAX CSR",
       "name_ja": "ピカチュウVMAX CSR",
-      "number": "223/184",
+      "number": "275/184",
       "condition": "Raw",
       "imageUrl": "https://cdn.snkrdunk.com/upload_bg_removed/20230913100335-0.webp"
     },
@@ -55600,6 +55680,14 @@
       },
       {
         "date": "2026-08-24",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 28800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -56744,6 +56832,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 92800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 92800,
+        "ppt_usd": null
       }
     ]
   },
@@ -57878,6 +57974,14 @@
       },
       {
         "date": "2026-08-24",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 47800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -59022,6 +59126,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -60156,6 +60268,14 @@
       },
       {
         "date": "2026-08-24",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 15800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -61300,6 +61420,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 5480,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 5480,
+        "ppt_usd": null
       }
     ]
   },
@@ -62439,6 +62567,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 74800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 74800,
+        "ppt_usd": null
       }
     ]
   },
@@ -63573,6 +63709,14 @@
       },
       {
         "date": "2026-08-24",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 39800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-08-25",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
