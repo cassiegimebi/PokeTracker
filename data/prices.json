@@ -7307,7 +7307,7 @@
       {
         "date": "2026-09-26",
         "snkrdunk_jpy": 13300,
-        "snkrdunk_sales_24h": 2,
+        "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 26,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -11606,8 +11606,8 @@
       {
         "date": "2026-09-26",
         "snkrdunk_jpy": 29500,
-        "snkrdunk_sales_24h": 2,
-        "snkrdunk_sales_7d": 7,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 6,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -22005,7 +22005,7 @@
         "date": "2026-09-26",
         "snkrdunk_jpy": 15000,
         "snkrdunk_sales_24h": 3,
-        "snkrdunk_sales_7d": 14,
+        "snkrdunk_sales_7d": 15,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -29518,7 +29518,7 @@
       },
       {
         "date": "2026-09-26",
-        "snkrdunk_jpy": 40000,
+        "snkrdunk_jpy": 39000,
         "snkrdunk_sales_24h": 6,
         "snkrdunk_sales_7d": 16,
         "cardrush_jpy": null,
@@ -36259,7 +36259,7 @@
         "date": "2026-09-26",
         "snkrdunk_jpy": 625000,
         "snkrdunk_sales_24h": 1,
-        "snkrdunk_sales_7d": 5,
+        "snkrdunk_sales_7d": 4,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -48751,8 +48751,8 @@
       },
       {
         "date": "2026-09-26",
-        "snkrdunk_jpy": 74400,
-        "snkrdunk_sales_24h": 3,
+        "snkrdunk_jpy": 73000,
+        "snkrdunk_sales_24h": 5,
         "snkrdunk_sales_7d": 14,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -55699,7 +55699,7 @@
       {
         "date": "2026-09-26",
         "snkrdunk_jpy": 54000,
-        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_24h": 1,
         "snkrdunk_sales_7d": 6,
         "cardrush_jpy": null,
         "ppt_usd": null
@@ -64119,7 +64119,7 @@
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
-        "cardrush_jpy": null,
+        "cardrush_jpy": 14800,
         "ppt_usd": null
       }
     ]
