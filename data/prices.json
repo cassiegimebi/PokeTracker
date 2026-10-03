@@ -7359,6 +7359,14 @@
         "snkrdunk_sales_7d": 32,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 12600,
+        "snkrdunk_sales_24h": 10,
+        "snkrdunk_sales_7d": 32,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -11704,6 +11712,14 @@
         "snkrdunk_jpy": 35000,
         "snkrdunk_sales_24h": 1,
         "snkrdunk_sales_7d": 10,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 35000,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 7,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -18541,6 +18557,14 @@
         "snkrdunk_sales_7d": 24,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 107800,
+        "snkrdunk_sales_24h": 10,
+        "snkrdunk_sales_7d": 25,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -22198,6 +22222,14 @@
         "snkrdunk_jpy": 16490,
         "snkrdunk_sales_24h": 2,
         "snkrdunk_sales_7d": 8,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 16480,
+        "snkrdunk_sales_24h": 3,
+        "snkrdunk_sales_7d": 9,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -29763,6 +29795,14 @@
         "snkrdunk_sales_7d": 40,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 43000,
+        "snkrdunk_sales_24h": 14,
+        "snkrdunk_sales_7d": 40,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -36550,6 +36590,14 @@
         "snkrdunk_sales_7d": 15,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 630000,
+        "snkrdunk_sales_24h": 4,
+        "snkrdunk_sales_7d": 15,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -41599,6 +41647,14 @@
         "snkrdunk_jpy": 11000,
         "snkrdunk_sales_24h": 10,
         "snkrdunk_sales_7d": 23,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 10800,
+        "snkrdunk_sales_24h": 6,
+        "snkrdunk_sales_7d": 26,
         "cardrush_jpy": null,
         "ppt_usd": null
       }
@@ -49140,6 +49196,14 @@
         "snkrdunk_sales_7d": 12,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 75900,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 14,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -56135,6 +56199,14 @@
         "snkrdunk_sales_7d": 16,
         "cardrush_jpy": null,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": 51000,
+        "snkrdunk_sales_24h": 5,
+        "snkrdunk_sales_7d": 18,
+        "cardrush_jpy": null,
+        "ppt_usd": null
       }
     ]
   },
@@ -57581,6 +57653,14 @@
       },
       {
         "date": "2026-10-02",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 4980,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -59037,6 +59117,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 22800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 22800,
+        "ppt_usd": null
       }
     ]
   },
@@ -60483,6 +60571,14 @@
       },
       {
         "date": "2026-10-02",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 79800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -61939,6 +62035,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 39800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 39800,
+        "ppt_usd": null
       }
     ]
   },
@@ -63385,6 +63489,14 @@
       },
       {
         "date": "2026-10-02",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": null,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -64841,6 +64953,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 14800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 14800,
+        "ppt_usd": null
       }
     ]
   },
@@ -66287,6 +66407,14 @@
       },
       {
         "date": "2026-10-02",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 5280,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
@@ -67743,6 +67871,14 @@
         "snkrdunk_sales_7d": 0,
         "cardrush_jpy": 62800,
         "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 62800,
+        "ppt_usd": null
       }
     ]
   },
@@ -69189,6 +69325,14 @@
       },
       {
         "date": "2026-10-02",
+        "snkrdunk_jpy": null,
+        "snkrdunk_sales_24h": 0,
+        "snkrdunk_sales_7d": 0,
+        "cardrush_jpy": 32800,
+        "ppt_usd": null
+      },
+      {
+        "date": "2026-10-03",
         "snkrdunk_jpy": null,
         "snkrdunk_sales_24h": 0,
         "snkrdunk_sales_7d": 0,
